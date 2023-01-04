@@ -1,0 +1,4 @@
+if-else used.
+for is used.
+print command is used.
+pass is used.
